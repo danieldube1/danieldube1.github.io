@@ -24,7 +24,9 @@ $card-font-color:#e5eadf;
 $card-link-color:#C79AC7;
 $card-link-color-hover:#C79AC7;
 
-
+html, body {
+	zoom: 0.85;
+}
 
 body {
   background: rgba(158,147,153,1);
